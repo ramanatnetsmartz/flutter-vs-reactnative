@@ -15,6 +15,8 @@
 
 **Shorter Time-to-Market**: As mentioned earlier, Flutter promises a shorter development time and thus is better than React Native in this regard. (Automatically)
 
+**Maintenance**	Flutter Easily update to the new version thanks to automated built-in tools.	Updating versions can be challenging and may demand extra effort in React native.
+
 # Additional Features:
 * Furthermore, recently, with the new release of Flutter 2.10, it has extended its stable support for Windows applications. Flutter for Windows has not just opened doors but windows of every organization. Hence, the popularity of flutter desktop app development is rising quickly, macos, web,windows and linux apps.
 
