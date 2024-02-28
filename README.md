@@ -15,6 +15,7 @@
 
 **Shorter Time-to-Market**: As mentioned earlier, Flutter promises a shorter development time and thus is better than React Native in this regard. (Automatically)
 
-# Additional Feature:
-“*” Furthermore, recently, with the new release of Flutter 2.10, it has extended its stable support for Windows applications. Flutter for Windows has not just opened doors but windows of every organization. Hence, the popularity of flutter desktop app development is rising quickly, macos, web,windows and linux apps
-“*” Flutter is compatible with Android 4.1 and iOS 8, while React Native is compatible with Android 4.1 and iOS 10. The difference between Flutter vs React Native is that Flutter includes Google-developed plugins such as geolocation and mapping.
+# Additional Features:
+* Furthermore, recently, with the new release of Flutter 2.10, it has extended its stable support for Windows applications. Flutter for Windows has not just opened doors but windows of every organization. Hence, the popularity of flutter desktop app development is rising quickly, macos, web,windows and linux apps.
+* 
+ Flutter is compatible with Android 4.1 and iOS 8, while React Native is compatible with Android 4.1 and iOS 10. The difference between Flutter vs React Native is that Flutter includes Google-developed plugins such as geolocation and mapping.
